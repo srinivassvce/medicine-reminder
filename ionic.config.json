@@ -1,0 +1,7 @@
+{
+    "name": "medicineRem",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
